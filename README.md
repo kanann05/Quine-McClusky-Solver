@@ -1,1 +1,2 @@
-# Quine-McClusky-Solver
+-This is a java program to solve or simplify SOP equation using Quine-McClusky alogrithm.
+- Input :
